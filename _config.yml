@@ -2,6 +2,7 @@ name: BookingAhead
 favicon: null
 layout_spectrum: 0.6766553041525185
 typography_spectrum: 0.70872523332946
+title: BookingAhead
 cta:
   domain: null
   bucket: null
