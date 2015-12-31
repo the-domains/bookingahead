@@ -1,7 +1,7 @@
 name: BookingAhead
 favicon: null
-layout_spectrum: 0.6766553041525185
-typography_spectrum: 0.70872523332946
+layout_spectrum: 0.74729
+typography_spectrum: 0.5009
 title: BookingAhead
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.7201480132061988
+  brandStrength: 0.5
   lightness: 0.28933627833612263
-  saturation: 0.9798676716163754
+  saturation: 0.25
   rhythmicContrast: 0.03318165452219546
 purpose: []
