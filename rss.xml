@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BookingAhead]]></title>
         <description><![CDATA[BookingAhead]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bookingahead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 17:07:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 00:53:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bookingahead/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83c97566-7804-40fd-a695-341ef8a99f16.JPG">]]></description>
-            <link>undefined47e994e7-8096-4327-ba6b-b3e3d5f976ff/index.html</link>
+            <title><![CDATA[BookingAhead]]></title>
+            <description><![CDATA[<article><h1>BookingAhead</h1><p>Hi there, welcome to my test beta site for booking a head.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbbf27fa10e83c1b782727fef5117e11f17fdde8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bookingahead/47e994e7-8096-4327-ba6b-b3e3d5f976ff/index.html</link>
             <guid isPermaLink="false">47e994e7-8096-4327-ba6b-b3e3d5f976ff</guid>
-            <pubDate>Thu, 31 Dec 2015 17:06:54 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 00:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
